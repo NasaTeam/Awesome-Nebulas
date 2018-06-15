@@ -17,14 +17,14 @@
 #### 使用 DApp <a name="guide--user">&nbsp;</a>
 
 1. [创建自己的星云钱包地址](https://github.com/cssmagic/Awesome-Nebulas/issues/11)
-1. [接收星云官方赠送的启动资金](https://github.com/cssmagic/Awesome-Nebulas/issues/9)
-1. 有钱了，就可以在 [DApp 商店](#dapp--store) 中浏览选用感兴趣的 DApp 了
-
-#### 转账
-
-* 使用 [星云 Web 钱包](https://blog.nebulas.io/2018/04/17/sending-nas-from-your-wallet/)
-* 使用 [星云钱包 Chrome 扩展](https://github.com/nebulasio/WebExtensionWallet) 
-* 使用 [星云手机钱包 App](https://nano.nebulas.io/)
+1. 在星云官网 [注册一个账号](https://incentive.nebulas.io/cn/signup.html?invite=76rVp)
+	1. 在星云官网 [验证邮箱](https://incentive.nebulas.io/cn/setting_active.html)
+	1. 在星云官网 [填入你的钱包地址](https://incentive.nebulas.io/cn/setting.html)
+	1. 耐心等待，半小时左右你的钱包就会收到官方赠送的少量 NAS（星云币）作为启动资金
+1. 安装必备的工具
+	* 桌面端：安装 [星云钱包 Chrome 扩展](https://github.com/nebulasio/WebExtensionWallet)
+	* 手机端：安装 [星云手机钱包 App](https://nano.nebulas.io/)
+1. 万事俱备，现在可以到 [DApp 商店](#dapp--store) 中浏览选用感兴趣的 DApp 了
 
 #### 开发 DApp <a name="guide--developer">&nbsp;</a>
 
