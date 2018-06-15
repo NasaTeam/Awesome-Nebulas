@@ -29,7 +29,7 @@
 1. [创建自己的星云钱包地址](https://github.com/cssmagic/Awesome-Nebulas/issues/11)
 1. 在星云官网 [注册一个账号](https://incentive.nebulas.io/cn/signup.html?invite=76rVp)
 	1. 在星云官网 [验证邮箱](https://incentive.nebulas.io/cn/setting_active.html)
-	1. 在星云官网 [填入你的钱包地址](https://https://incentive.nebulas.io/cn/setting.html)
+	1. 在星云官网 [填入你的钱包地址](https://incentive.nebulas.io/cn/setting.html)
 	1. 半小时内你的钱包就会收到官方赠送的 0.0001 NAS（星云币）
 1. 有钱了，就可以开始体验 DApp 了
 	* 在 [DApp 商店](#dapp--store) 浏览选用你感兴趣的 DApp
