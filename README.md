@@ -26,7 +26,7 @@
 
 #### 使用 DApp <a name="guide--user">&nbsp;</a>
 
-1. [创建自己的星云钱包地址](https://blog.nebulas.io/2018/04/12/creating-a-nas-wallet/)
+1. [创建自己的星云钱包地址](https://github.com/cssmagic/Awesome-Nebulas/issues/11)
 1. 在星云官网 [注册一个账号](https://incentive.nebulas.io/cn/signup.html?invite=76rVp)
 	1. 在星云官网 [验证邮箱](https://incentive.nebulas.io/cn/setting_active.html)
 	1. 在星云官网 [填入你的钱包地址](https://https://incentive.nebulas.io/cn/setting.html)
@@ -40,7 +40,7 @@
 * 使用 [星云 Web 钱包](https://github.com/nebulasio/web-wallet)
 	* [发起转账](https://blog.nebulas.io/2018/04/17/sending-nas-from-your-wallet/) - 适用于初级用户
 	* [离线签名交易](https://blog.nebulas.io/2018/04/18/signing-a-transaction-offline/) - 适用于高级用户
-	* [查看钱包信息](https://blog.nebulas.io/2018/04/19/view-wallet-information/) - 查看自己（或别人）还有多少钱
+	* [查看钱包信息](https://blog.nebulas.io/2018/04/19/view-wallet-information/) - 查看自己还有多少 NAS
 	* [查看交易状态](https://blog.nebulas.io/2018/04/28/check-tx-status/) - 查看转账是否已成功
 * 使用 [星云钱包 Chrome 扩展](https://github.com/nebulasio/WebExtensionWallet) 
 * 使用 [星云手机钱包 APP](https://nano.nebulas.io/)
@@ -60,23 +60,26 @@
 
 * [TPS 是什么意思？](https://github.com/cssmagic/Awesome-Nebulas/issues/3)
 * [什么是 gas/油费/矿工费/手续费？](https://github.com/cssmagic/Awesome-Nebulas/issues/4)
-* ……
+* [节点之间的数据同步（达成共识）需要多久？](https://github.com/cssmagic/Awesome-Nebulas/issues/8)
+
+#### 钱包与 NAS（星云币） <a name="faq--wallet">&nbsp;</a>
+
+* [如何创建自己的星云钱包（钱包地址）？](https://github.com/cssmagic/Awesome-Nebulas/issues/11)
+* [如何查询自己钱包的 NAS 余额？](https://github.com/cssmagic/Awesome-Nebulas/issues/10)
+* [在 DApp 里很多操作都需要付 gas，两手空空的新手如何获得启动资金？](https://github.com/cssmagic/Awesome-Nebulas/issues/9)
 
 #### 智能合约 <a name="faq--smart-contract">&nbsp;</a>
 
 * [智能合约部署上线之后还可以修改吗？我的 DApp 升级怎么办？](https://github.com/cssmagic/Awesome-Nebulas/issues/5)
 * [如何查看别人的合约代码？](https://github.com/cssmagic/Awesome-Nebulas/issues/6)
-* ……
 
 ####  DApp 开发 <a name="faq--dapp-dev">&nbsp;</a>
 
 * [用 nebPay.queryPayInfo() 查询交易结果，总是得到 "payId *** does not exist" 是怎么回事？](https://github.com/cssmagic/Awesome-Nebulas/issues/1)
-* ……
 
 #### 星云激励计划 <a name="faq--incentive">&nbsp;</a>
 
 * [“合约哈希” 是什么意思？在哪里能找到？](https://github.com/cssmagic/Awesome-Nebulas/issues/7)
-* ……
 
 > 👉 没有找到你想问的问题？点这里 [提交新问题](https://github.com/cssmagic/Awesome-Nebulas/issues/new)。
 
@@ -179,7 +182,7 @@
 
 #### 微信群 <a name="wechat-group">&nbsp;</a>
 
-![qr-20180617](https://user-images.githubusercontent.com/1231359/41432298-1b00d1f2-7048-11e8-9980-18ae3e3d6640.png)
+![群二维码-20180617](https://user-images.githubusercontent.com/1231359/41432298-1b00d1f2-7048-11e8-9980-18ae3e3d6640.png)
 
 * **群规**：畅聊 DApp 技术；禁止闲聊，禁发与主题无关的动图、视频和外链，违者踢。
 
