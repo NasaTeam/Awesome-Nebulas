@@ -1,23 +1,13 @@
 # Awesome Nebulas
 
-> 星云链 DApp 开发文档、资料、工具、教程大全
->
-> A collection of Nebulas blockchain DApp development tools and docs
+星云链 DApp 开发文档、资料、工具、教程大全
 
-***
-
-| 目录 |
-|---
-| [新手入门指南](#guide)
-| [常见问题（FAQ）](#faq)
-| [官方教程](#official-tutorial)
-| [必备工具](#tool)
-| [星云激励计划](#incentive)
-| [库](#lib)
-| [星云币（NAS）](#nas)
-| [DApp](#dapp)
-| [社区](#community)
-| [其它](#misc)
+| 　　　　　　　　 | 　　　目　录　　　 | 　　　　　　　　 |
+|:---:|:---:|:---:|
+| [新手入门指南](#guide) | [星云激励计划](#incentive)| [社区](#community)
+| [常见问题（FAQ）](#faq)| [SDK](#sdk)| [其它](#misc)
+| [官方教程](#official-tutorial)| [星云币（NAS）](#nas)
+| [必备工具](#tool)| [DApp](#dapp)
 
 ***
 
@@ -27,29 +17,19 @@
 #### 使用 DApp <a name="guide--user">&nbsp;</a>
 
 1. [创建自己的星云钱包地址](https://github.com/cssmagic/Awesome-Nebulas/issues/11)
-1. 在星云官网 [注册一个账号](https://incentive.nebulas.io/cn/signup.html?invite=76rVp)
-	1. 在星云官网 [验证邮箱](https://incentive.nebulas.io/cn/setting_active.html)
-	1. 在星云官网 [填入你的钱包地址](https://incentive.nebulas.io/cn/setting.html)
-	1. 半小时内你的钱包就会收到官方赠送的 0.0001 NAS（星云币）
-1. 有钱了，就可以开始体验 DApp 了
-	* 在 [DApp 商店](#dapp--store) 浏览选用你感兴趣的 DApp
-	* 体验 [推荐的 DApp](#dapp--commended)
+1. [接收星云官方赠送的启动资金](https://github.com/cssmagic/Awesome-Nebulas/issues/9)
+1. 有钱了，就可以在 [DApp 商店](#dapp--store) 中浏览选用感兴趣的 DApp 了
 
 #### 转账
 
-* 使用 [星云 Web 钱包](https://github.com/nebulasio/web-wallet)
-	* [发起转账](https://blog.nebulas.io/2018/04/17/sending-nas-from-your-wallet/) - 适用于初级用户
-	* [离线签名交易](https://blog.nebulas.io/2018/04/18/signing-a-transaction-offline/) - 适用于高级用户
-	* [查看钱包信息](https://blog.nebulas.io/2018/04/19/view-wallet-information/) - 查看自己还有多少 NAS
-	* [查看交易状态](https://blog.nebulas.io/2018/04/28/check-tx-status/) - 查看转账是否已成功
+* 使用 [星云 Web 钱包](https://blog.nebulas.io/2018/04/17/sending-nas-from-your-wallet/)
 * 使用 [星云钱包 Chrome 扩展](https://github.com/nebulasio/WebExtensionWallet) 
-* 使用 [星云手机钱包 APP](https://nano.nebulas.io/)
+* 使用 [星云手机钱包 App](https://nano.nebulas.io/)
 
 #### 开发 DApp <a name="guide--developer">&nbsp;</a>
 
 * 在星云官网 [注册一个账号](https://incentive.nebulas.io/cn/signup.html?invite=76rVp)
-* 阅读 [官方教程](#official-tutorial) 和 [网友经验分享](#community-tutorial)
-* 学习 [库](#lib)
+* 熟悉 [SDK](#sdk)，阅读 [官方教程](#official-tutorial) 和 [网友经验分享](#community-tutorial)
 * 加入 [微信群](#wechat-group) 交流经验
 
 ## 常见问题（FAQ） <a name="faq">&nbsp;</a>
@@ -80,6 +60,7 @@
 #### 星云激励计划 <a name="faq--incentive">&nbsp;</a>
 
 * [“合约哈希” 是什么意思？在哪里能找到？](https://github.com/cssmagic/Awesome-Nebulas/issues/7)
+* [获奖后如何领奖？](https://github.com/cssmagic/Awesome-Nebulas/issues/12)
 
 > 👉 没有找到你想问的问题？点这里 [提交新问题](https://github.com/cssmagic/Awesome-Nebulas/issues/new)。
 
@@ -100,19 +81,17 @@
 
 #### DApp 开发 <a name="official-tutorial--dapp-dev">&nbsp;</a>
 
-* [[英文] FAQ](https://github.com/nebulasio/wiki/blob/master/FAQ_nebulas_development_en.md) | [中文](https://github.com/nebulasio/wiki/blob/master/FAQ_nebulas_development_ch.md)
+* [[中文] FAQ](https://github.com/nebulasio/wiki/blob/master/FAQ_nebulas_development_ch.md) | [[英文]](https://github.com/nebulasio/wiki/blob/master/FAQ_nebulas_development_en.md)
 * [手把手教你星云DApp开发（一）](https://blog.nebulas.io/2018/05/04/how-to-build-a-dapp-on-nebulas-part-1/)
 * [手把手教你星云DApp开发（二）](https://blog.nebulas.io/2018/05/05/how-to-build-a-dapp-on-nebulas-part-2/)
-* 官方 Demo（super-dictionary）：
- 	* [GitHub repo](https://github.com/15010159959/super-dictionary)
-	* [解读](https://blog.nebulas.io/2018/04/28/nebulas-incentive-program%e2%80%8a-%e2%80%8a-demo/)
+* 官方 Demo（super-dictionary）： [GitHub](https://github.com/15010159959/super-dictionary) | [解读](https://blog.nebulas.io/2018/04/28/nebulas-incentive-program%e2%80%8a-%e2%80%8a-demo/)
 
 ## 必备工具 <a name="tool">&nbsp;</a>
 
 * [星云浏览器](https://explorer.nebulas.io/) - 查询交易、地址、合约等详细信息
 * [星云 Web 钱包](https://github.com/nebulasio/web-wallet) - 创建自己的钱包、向他人转账、部署合约等
 * [星云钱包 Chrome 扩展](https://github.com/nebulasio/WebExtensionWallet) - 把钱包功能集成到 Chrome 浏览器，便于使用 DApp
-* [星云手机钱包 APP](https://nano.nebulas.io/) - 在手机上使用星云钱包，便于使用 DApp
+* [星云手机钱包 App](https://nano.nebulas.io/) - 在手机上使用星云钱包，便于使用 DApp
 
 ## 星云激励计划 <a name="incentive">&nbsp;</a>
 
@@ -120,7 +99,7 @@
 
 * [注册星云开发者账号](https://incentive.nebulas.io/cn/signup.html?invite=76rVp) - 这是本项目作者的邀请链接，可获额外奖金
 * [提交 DApp](https://incentive.nebulas.io/cn/submit-dapp.html) - 提交自己的作品参赛
-* [我的 DAPP](https://incentive.nebulas.io/cn/mydapp.html) - 已提交的作品，以及审核情况
+* [我的 DApp](https://incentive.nebulas.io/cn/mydapp.html) - 已提交的作品，以及审核情况
 
 #### 官方文档与公告 <a name="incentive--official-doc">&nbsp;</a>
 
@@ -137,46 +116,44 @@
 * [领奖事宜](http://nasfans.io/forum.php?mod=viewthread&tid=230&extra=page%3D1) - 可能是官方公告
 * [分析星云评奖结果](http://www.nasforce.io/index.php?c=read&id=110&page=1)
 
-## 库 <a name="lib">&nbsp;</a>
+## SDK <a name="sdk">&nbsp;</a>
 
 * **nebPay** - 支付 SDK <a name="nebPay">&nbsp;</a>
-    * [GitHub repo](https://github.com/nebulasio/nebPay)
-    * [文档](https://github.com/nebulasio/nebPay/blob/master/doc/NebPay%E4%BB%8B%E7%BB%8D.md)
-    * [教程：如何在Dapp中使用nebPay](https://blog.nebulas.io/2018/05/09/how-to-use-nebpay-in-your-dapp/)
+    
+    [GitHu](https://github.com/nebulasio/nebPay) | [文档](https://github.com/nebulasio/nebPay/blob/master/doc/NebPay%E4%BB%8B%E7%BB%8D.md) | [教程](https://blog.nebulas.io/2018/05/09/how-to-use-nebpay-in-your-dapp/)
+
 * **neb.js** - JS SDK <a name="neb.js">&nbsp;</a>
-	* [GitHub repo](https://github.com/nebulasio/neb.js)
-	* [文档](https://nebulasio.github.io/neb.js/index.html)
+	
+	[GitHub](https://github.com/nebulasio/neb.js) | [文档](https://nebulasio.github.io/neb.js/index.html)
+
 * **BigNumber** - 合约和 SDK 内置库 <a name="BigNumber">&nbsp;</a>
-	* [使用方法](https://github.com/MikeMcl/bignumber.js#use)
-	* [文档](http://mikemcl.github.io/bignumber.js/)
+	
+	[使用方法](https://github.com/MikeMcl/bignumber.js#use) | [文档](http://mikemcl.github.io/bignumber.js/)
 
 ## 星云币（NAS） <a name="nas">&nbsp;</a>
 
 #### 测试网 <a name="nas--testnet">&nbsp;</a>
 
-* [官方] 测试网每日申请 ~~10 NAS~~ 1 NAS： https://testnet.nebulas.io/claim/
+* [官方] [测试网每日申请 1 NAS](https://testnet.nebulas.io/claim/) - 有时可能不稳定 
 
 #### 主网 <a name="nas--mainnet">&nbsp;</a>
 
-* 在 [“CSS魔法” 微信公众号](https://cloud.githubusercontent.com/assets/1231359/13040994/04966808-d3ee-11e5-8eb5-7e3bf8767f4e.png) 内发送钱包地址，可获赠少量 NAS。
+* 如果官方赠送的启动资金迟迟没有到账，请加 [微信群](#wechat-group)，群主会赠送你少量 NAS。
+* [非官方] 付 gas 领 0.001 NAS，每天可领 20 次： http://nasgo.top/
 * [非官方] 付 gas 领 0.001 NAS： https://nas.biyouduo.com/
 * [非官方] 付 gas 领 0.0002 NAS： http://givemenas.com/home.html
-* [非官方] 付 gas 领 0.0005 NAS，每天可领 20 次： http://nasgo.top/
 
 ## DApp <a name="dapp">&nbsp;</a>
 
 #### DApp 商店 <a name="dapp--store">&nbsp;</a>
 
 * [官方 DApp 商场](https://incentive.nebulas.io/cn/dappstore.html)
-* 第三方 DApp 商店
-	* [Nebulas Cool：星云 DApp 商店](http://nebulas.cool/)
-	* [DApp Review：星云 DApp 商店](https://dapp.review/explore/nas)
-	* ……
+* [Nebulas Cool](http://nebulas.cool/) - 第三方 DApp 商店
+* [DApp Review](https://dapp.review/explore/nas) - 第三方 DApp 商店
 
 #### DApp 推荐 <a name="dapp--commended">&nbsp;</a>
 
 * [我是预言帝](http://dapp.applinzi.com/predictor/) - 这是本项目作者的小作品，欢迎体验
-* ……
 
 ## 社区 <a name="community">&nbsp;</a>
 
