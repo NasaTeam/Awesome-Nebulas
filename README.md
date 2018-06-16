@@ -18,9 +18,10 @@
 
 1. [创建自己的星云钱包地址](https://github.com/cssmagic/Awesome-Nebulas/issues/11)
 1. 在星云官网 [注册一个账号](https://incentive.nebulas.io/cn/signup.html?invite=76rVp)
-	1. 在星云官网 [验证邮箱](https://incentive.nebulas.io/cn/setting_active.html)
-	1. 在星云官网 [填入你的钱包地址](https://incentive.nebulas.io/cn/setting.html)
-	1. 耐心等待，半小时左右你的钱包就会收到官方赠送的少量 NAS（星云币）作为启动资金
+	* 在星云官网 [验证邮箱](https://incentive.nebulas.io/cn/setting_active.html)（注意：验证邮件可能会被误判为垃圾邮件）
+	* 在星云官网 [填入你的钱包地址](https://incentive.nebulas.io/cn/setting.html)
+	* 耐心等待，最快半小时你的钱包就会收到官方赠送的少量 NAS（星云币）作为启动资金
+	* 如果急用，等不及启动资金到账，可求助 [微信群](#wechat-group)
 1. 安装必备的工具
 	* 桌面端：安装 [星云钱包 Chrome 扩展](https://github.com/nebulasio/WebExtensionWallet)
 	* 手机端：安装 [星云手机钱包 App](https://nano.nebulas.io/)
@@ -114,13 +115,14 @@
 #### 社区资源 <a name="incentive--community">&nbsp;</a>
 
 * [领奖事宜](http://nasfans.io/forum.php?mod=viewthread&tid=230&extra=page%3D1) - 可能是官方公告
+* [星云 DApp 开发热点问题答疑](http://nasfans.io/forum.php?mod=viewthread&tid=236) - 可能是官方公告
 * [分析星云评奖结果](http://www.nasforce.io/index.php?c=read&id=110&page=1)
 
 ## SDK <a name="sdk">&nbsp;</a>
 
 * **nebPay** - 支付 SDK <a name="nebPay">&nbsp;</a>
     
-    [GitHu](https://github.com/nebulasio/nebPay) | [文档](https://github.com/nebulasio/nebPay/blob/master/doc/NebPay%E4%BB%8B%E7%BB%8D.md) | [教程](https://blog.nebulas.io/2018/05/09/how-to-use-nebpay-in-your-dapp/)
+    [GitHub](https://github.com/nebulasio/nebPay) | [文档](https://github.com/nebulasio/nebPay/blob/master/doc/NebPay%E4%BB%8B%E7%BB%8D.md) | [教程](https://blog.nebulas.io/2018/05/09/how-to-use-nebpay-in-your-dapp/)
 
 * **neb.js** - JS SDK <a name="neb.js">&nbsp;</a>
 	
@@ -134,11 +136,11 @@
 
 #### 测试网 <a name="nas--testnet">&nbsp;</a>
 
-* [官方] [测试网每日申请 1 NAS](https://testnet.nebulas.io/claim/) - 有时可能不稳定 
+* [官方] [测试网每日申请 1 NAS](https://testnet.nebulas.io/claim/) - 有时可能不稳定，可求助 [微信群](#wechat-group)
 
 #### 主网 <a name="nas--mainnet">&nbsp;</a>
 
-* 如果官方赠送的启动资金迟迟没有到账，请加 [微信群](#wechat-group)，群主会赠送你少量 NAS。
+* [官方会向新用户赠送少量的启动资金](https://github.com/cssmagic/Awesome-Nebulas/issues/9)；如果急用，可求助 [微信群](#wechat-group)
 * [非官方] 付 gas 领 0.001 NAS，每天可领 20 次： http://nasgo.top/
 * [非官方] 付 gas 领 0.001 NAS： https://nas.biyouduo.com/
 * [非官方] 付 gas 领 0.0002 NAS： http://givemenas.com/home.html
@@ -159,11 +161,11 @@
 
 #### 微信群 <a name="wechat-group">&nbsp;</a>
 
-![群二维码-20180617](https://user-images.githubusercontent.com/1231359/41432298-1b00d1f2-7048-11e8-9980-18ae3e3d6640.png)
+* ![群二维码-20180623](https://user-images.githubusercontent.com/1231359/41498918-27cfc2da-71ab-11e8-9705-0dcdf8236fba.png) - 这是本项目作者自建群，非官方
 
-* **群规**：畅聊 DApp 技术；禁止闲聊，禁发与主题无关的动图、视频和外链，违者踢。
+* ⚠️ **群规**：畅聊 DApp 技术；禁止闲聊，禁发与主题无关的动图、视频和外链，违者踢。
 
-* 如果上面的二维码已过期，请在 [“CSS魔法” 微信公众号](https://cloud.githubusercontent.com/assets/1231359/13040994/04966808-d3ee-11e5-8eb5-7e3bf8767f4e.png) 内发送 “入群” 两个字，即可收到最新的群二维码。
+* 如果上面的群二维码已过期，请加群主微信号 `cssmagic`，群主会拉你入群。
 
 #### 网友经验分享 <a name="community-tutorial">&nbsp;</a>
 
