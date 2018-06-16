@@ -48,6 +48,7 @@
 * [如何创建自己的星云钱包（钱包地址）？](https://github.com/cssmagic/Awesome-Nebulas/issues/11)
 * [如何查询自己钱包的 NAS 余额？](https://github.com/cssmagic/Awesome-Nebulas/issues/10)
 * [在 DApp 里很多操作都需要付 gas，两手空空的新手如何获得启动资金？](https://github.com/cssmagic/Awesome-Nebulas/issues/9)
+* [“导入钱包助记词” 是什么意思？](https://github.com/cssmagic/Awesome-Nebulas/issues/14)
 
 #### 智能合约 <a name="faq--smart-contract">&nbsp;</a>
 
