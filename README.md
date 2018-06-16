@@ -119,6 +119,7 @@
 * [领奖事宜](http://nasfans.io/forum.php?mod=viewthread&tid=230&extra=page%3D1) - 可能是官方公告
 * [星云 DApp 开发热点问题答疑](http://nasfans.io/forum.php?mod=viewthread&tid=236) - 可能是官方公告
 * [分析星云评奖结果](http://www.nasforce.io/index.php?c=read&id=110&page=1)
+* [创新？实用？从 46 个优秀 DApp 看开发重点](http://nasfans.io/forum.php?mod=viewthread&tid=275)
 
 ## SDK <a name="sdk">&nbsp;</a>
 
