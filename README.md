@@ -32,6 +32,7 @@
 * 在星云官网 [注册一个账号](https://incentive.nebulas.io/cn/signup.html?invite=76rVp)
 * 熟悉 [SDK](#sdk)，阅读 [官方教程](#official-tutorial) 和 [网友经验分享](#community-tutorial)
 * 加入 [微信群](#wechat-group) 交流经验
+* 到 [创意墙](https://github.com/cssmagic/Awesome-Nebulas/labels/Idea) 找灵感，或找小伙伴组队；也可以发布你的创意，招募小伙伴组队
 
 ## 常见问题（FAQ） <a name="faq">&nbsp;</a>
 
