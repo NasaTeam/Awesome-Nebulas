@@ -63,7 +63,7 @@
 * [“合约哈希” 是什么意思？在哪里能找到？](https://github.com/cssmagic/Awesome-Nebulas/issues/7)
 * [获奖后如何领奖？](https://github.com/cssmagic/Awesome-Nebulas/issues/12)
 
-> 👉 没有找到你想问的问题？点这里 [提交新问题](https://github.com/cssmagic/Awesome-Nebulas/issues/new)。
+> 👉 没找到你关心的问题？点这里 [提交新问题](https://github.com/cssmagic/Awesome-Nebulas/issues/new)。
 
 ***
 
