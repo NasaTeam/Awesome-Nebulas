@@ -51,7 +51,7 @@
 
 #### 智能合约 <a name="faq--smart-contract">&nbsp;</a>
 
-* [智能合约部署上线之后还可以修改吗？我的 DApp 升级怎么办？](https://github.com/cssmagic/Awesome-Nebulas/issues/5)
+* [智能合约部署上线之后还可以修改吗？我的 DApp 要升级怎么办？](https://github.com/cssmagic/Awesome-Nebulas/issues/5)
 * [如何查看别人的合约代码？](https://github.com/cssmagic/Awesome-Nebulas/issues/6)
 
 ####  DApp 开发 <a name="faq--dapp-dev">&nbsp;</a>
@@ -61,6 +61,7 @@
 #### 星云激励计划 <a name="faq--incentive">&nbsp;</a>
 
 * [“合约哈希” 是什么意思？在哪里能找到？](https://github.com/cssmagic/Awesome-Nebulas/issues/7)
+* [DApp 开发好了，如何提交给星云参加 “激励计划”？](https://github.com/cssmagic/Awesome-Nebulas/issues/13)
 * [获奖后如何领奖？](https://github.com/cssmagic/Awesome-Nebulas/issues/12)
 
 > 👉 没找到你关心的问题？点这里 [提交新问题](https://github.com/cssmagic/Awesome-Nebulas/issues/new)。
