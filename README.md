@@ -58,8 +58,11 @@
 
 ####  DApp 开发 <a name="faq--dapp-dev">&nbsp;</a>
 
+> 如果这一段的问答看不懂，别急，先看看其它文档或教程，再写写，再回来看看。
+
 * [DApp 不能在 Windows 上开发吗？](https://github.com/cssmagic/Awesome-Nebulas/issues/17)
 * [用 nebPay.queryPayInfo() 查询交易结果，总是得到 "payId *** does not exist" 是怎么回事？](https://github.com/cssmagic/Awesome-Nebulas/issues/1)
+* [调用 HTTP 接口有时会提示我跨域错误（'Access-Control-Allow-Origin' 响应头丢失）是怎么回事？](https://github.com/cssmagic/Awesome-Nebulas/issues/18)
 
 #### 星云激励计划 <a name="faq--incentive">&nbsp;</a>
 
