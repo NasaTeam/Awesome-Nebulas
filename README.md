@@ -73,13 +73,13 @@
 
 ## 官方教程 <a name="official-tutorial">&nbsp;</a>
 
-* [[英文] Nebulearn](http://nebulearn.com/) - 官方开发教程总站，比较全，建议英文好的开发者仔细研读
-* [[英文/中文] 官方教程](https://github.com/nebulasio/wiki/blob/master/tutorials.md) - 星云链官方教程汇总，建议入门后阅读
-* [[英文] 官方 Wiki](https://github.com/nebulasio/wiki/blob/master/tutorials.md) - 星云链官方资料汇总，建议入门后阅读
+* [[英文] Nebulearn](http://nebulearn.com/) —— 官方开发教程总站，比较全，建议英文好的开发者仔细研读
+* [[英文/中文] 官方教程](https://github.com/nebulasio/wiki/blob/master/tutorials.md) —— 星云链官方教程汇总，建议入门后阅读
+* [[英文] 官方 Wiki](https://github.com/nebulasio/wiki/blob/master/tutorials.md) —— 星云链官方资料汇总，建议入门后阅读
 
 #### 智能合约 <a name="official-tutorial--smart-contract">&nbsp;</a>
 
-* [[中文] 智能合约概述](https://github.com/nebulasio/wiki/blob/master/smart_contract_ch.md) - 简介智能合约的执行模型、编写范式、内置对象等
+* [[中文] 智能合约概述](https://github.com/nebulasio/wiki/blob/master/smart_contract_ch.md) —— 简介智能合约的执行模型、编写范式、内置对象等
 * [[中文] 编写并运行智能合约](https://github.com/nebulasio/wiki/blob/master/tutorials/%5B%E4%B8%AD%E6%96%87%5D%20Nebulas%20101%20-%2003%20%E7%BC%96%E5%86%99%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6.md)
 * [[中文] 智能合约存储区](https://github.com/nebulasio/wiki/blob/master/tutorials/%5B%E4%B8%AD%E6%96%87%5D%20Nebulas%20101%20-%2004%20%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%AD%98%E5%82%A8%E5%8C%BA.md)
 * [[中文] 部署智能合约](https://blog.nebulas.io/2018/04/28/deploy-a-smart-contract/)
@@ -93,47 +93,47 @@
 
 ## 必备工具 <a name="tool">&nbsp;</a>
 
-* [星云浏览器](https://explorer.nebulas.io/) - 查询交易、地址、合约等详细信息
-* [星云 Web 钱包](https://github.com/nebulasio/web-wallet) - 创建自己的钱包、向他人转账、部署合约等
-* [星云钱包 Chrome 扩展](https://github.com/nebulasio/WebExtensionWallet) - 把钱包功能集成到 Chrome 浏览器，便于使用 DApp
-* [星云手机钱包 App](https://nano.nebulas.io/) - 在手机上使用星云钱包，便于使用 DApp
+* [星云浏览器](https://explorer.nebulas.io/) —— 查询交易、地址、合约等详细信息
+* [星云 Web 钱包](https://github.com/nebulasio/web-wallet) —— 创建自己的钱包、向他人转账、部署合约等
+* [星云钱包 Chrome 扩展](https://github.com/nebulasio/WebExtensionWallet) —— 把钱包功能集成到 Chrome 浏览器，便于使用 DApp
+* [星云手机钱包 App](https://nano.nebulas.io/) —— 在手机上使用星云钱包，便于使用 DApp
 
 ## 星云激励计划 <a name="incentive">&nbsp;</a>
 
 #### 常用链接 <a name="incentive--link">&nbsp;</a>
 
-* [注册星云开发者账号](https://incentive.nebulas.io/cn/signup.html?invite=76rVp) - 这是本项目作者的邀请链接，可获额外奖金
-* [提交 DApp](https://incentive.nebulas.io/cn/submit-dapp.html) - 提交自己的作品参赛
-* [我的 DApp](https://incentive.nebulas.io/cn/mydapp.html) - 已提交的作品，以及审核情况
+* [注册星云开发者账号](https://incentive.nebulas.io/cn/signup.html?invite=76rVp) —— 这是本项目作者的邀请链接，可获额外奖金
+* [提交 DApp](https://incentive.nebulas.io/cn/submit-dapp.html) —— 提交自己的作品参赛
+* [我的 DApp](https://incentive.nebulas.io/cn/mydapp.html) —— 已提交的作品，以及审核情况
 
 #### 官方文档与公告 <a name="incentive--official-doc">&nbsp;</a>
 
 * [审核规则指南](https://mp.weixin.qq.com/s?__biz=MzU2MTI5OTI3MA==&mid=2247484761&idx=3&sn=357580897604e90cef6bb68e1e6b8fc3) 
 * [安全公告](https://mp.weixin.qq.com/s/bWmh5BRRx1qjUp-wJrXSTw)
 * [常见问题](https://blog.nebulas.io/2018/05/03/nebulas-incentive-program-qa/)
-* [加分指南](https://mp.weixin.qq.com/s/mspyU2DRENyonDA67VF40A) - 参见文章尾部
-* [DApp 升级指南](https://mp.weixin.qq.com/s/MdVZ-iVc5ZNChp1RzDpzsw) - 如何重新申请审核
-* [星云 DApp 设计规范](https://nebulas.io/docs/DAppDesignGuidelinesZh.pdf) - PDF 下载
+* [加分指南](https://mp.weixin.qq.com/s/mspyU2DRENyonDA67VF40A) —— 参见文章尾部
+* [DApp 升级指南](https://mp.weixin.qq.com/s/MdVZ-iVc5ZNChp1RzDpzsw) —— 如何重新申请审核
+* [星云 DApp 设计规范](https://nebulas.io/docs/DAppDesignGuidelinesZh.pdf) —— PDF 下载
 * [每周入围应用](https://incentive.nebulas.io/cn/dapps-board.html)
 
 #### 社区资源 <a name="incentive--community">&nbsp;</a>
 
-* [领奖事宜](http://nasfans.io/forum.php?mod=viewthread&tid=230&extra=page%3D1) - 可能是官方公告
-* [星云 DApp 开发热点问题答疑](http://nasfans.io/forum.php?mod=viewthread&tid=236) - 可能是官方公告
+* [领奖事宜](http://nasfans.io/forum.php?mod=viewthread&tid=230&extra=page%3D1) —— 可能是官方公告
+* [星云 DApp 开发热点问题答疑](http://nasfans.io/forum.php?mod=viewthread&tid=236) —— 可能是官方公告
 * [分析星云评奖结果](http://www.nasforce.io/index.php?c=read&id=110&page=1)
 * [创新？实用？从 46 个优秀 DApp 看开发重点](http://nasfans.io/forum.php?mod=viewthread&tid=275)
 
 ## SDK <a name="sdk">&nbsp;</a>
 
-* **nebPay** - 支付 SDK <a name="nebPay">&nbsp;</a>
+* **nebPay** —— 支付 SDK <a name="nebPay">&nbsp;</a>
     
     [GitHub](https://github.com/nebulasio/nebPay) | [文档](https://github.com/nebulasio/nebPay/blob/master/doc/NebPay%E4%BB%8B%E7%BB%8D.md) | [教程](https://blog.nebulas.io/2018/05/09/how-to-use-nebpay-in-your-dapp/)
 
-* **neb.js** - JS SDK <a name="neb.js">&nbsp;</a>
+* **neb.js** —— JS SDK <a name="neb.js">&nbsp;</a>
 	
 	[GitHub](https://github.com/nebulasio/neb.js) | [文档](https://nebulasio.github.io/neb.js/index.html)
 
-* **BigNumber** - 合约和 SDK 内置库 <a name="BigNumber">&nbsp;</a>
+* **BigNumber** —— 合约和 SDK 内置库 <a name="BigNumber">&nbsp;</a>
 	
 	[使用方法](https://github.com/MikeMcl/bignumber.js#use) | [文档](http://mikemcl.github.io/bignumber.js/)
 
@@ -141,7 +141,7 @@
 
 #### 测试网 <a name="nas--testnet">&nbsp;</a>
 
-* [官方] [测试网每日申请 1 NAS](https://testnet.nebulas.io/claim/) - 有时可能不稳定，可求助 [微信群](#wechat-group)
+* [官方] [测试网每日申请 1 NAS](https://testnet.nebulas.io/claim/) —— 有时可能不稳定，可求助 [微信群](#wechat-group)
 
 #### 主网 <a name="nas--mainnet">&nbsp;</a>
 
@@ -155,18 +155,18 @@
 #### DApp 商店 <a name="dapp--store">&nbsp;</a>
 
 * [官方 DApp 商场](https://incentive.nebulas.io/cn/dappstore.html)
-* [Nebulas Cool](http://nebulas.cool/) - 第三方 DApp 商店
-* [DApp Review](https://dapp.review/explore/nas) - 第三方 DApp 商店
+* [Nebulas Cool](http://nebulas.cool/) —— 第三方 DApp 商店
+* [DApp Review](https://dapp.review/explore/nas) —— 第三方 DApp 商店
 
 #### DApp 推荐 <a name="dapp--commended">&nbsp;</a>
 
-* [我是预言帝](http://dapp.applinzi.com/predictor/) - 这是本项目作者的小作品，欢迎体验
+* [我是预言帝](http://dapp.applinzi.com/predictor/) —— 这是本项目作者的小作品，欢迎体验
 
 ## 社区 <a name="community">&nbsp;</a>
 
 #### 微信群 <a name="wechat-group">&nbsp;</a>
 
-* ![群二维码-20180623](https://user-images.githubusercontent.com/1231359/41498918-27cfc2da-71ab-11e8-9705-0dcdf8236fba.png) - 这是本项目作者自建群，非官方
+* ![群二维码-20180623](https://user-images.githubusercontent.com/1231359/41498918-27cfc2da-71ab-11e8-9705-0dcdf8236fba.png) —— 这是本项目作者自建群，非官方
 
 * 📣 **群规**：畅聊 DApp 技术；禁止闲聊，禁发与主题无关的动图、视频和外链，违者踢。
 
