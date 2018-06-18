@@ -58,6 +58,7 @@
 
 ####  DApp 开发 <a name="faq--dapp-dev">&nbsp;</a>
 
+* [DApp 不能在 Windows 上开发吗？](https://github.com/cssmagic/Awesome-Nebulas/issues/17)
 * [用 nebPay.queryPayInfo() 查询交易结果，总是得到 "payId *** does not exist" 是怎么回事？](https://github.com/cssmagic/Awesome-Nebulas/issues/1)
 
 #### 星云激励计划 <a name="faq--incentive">&nbsp;</a>
