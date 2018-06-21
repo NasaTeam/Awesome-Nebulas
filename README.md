@@ -50,6 +50,7 @@
 * [如何查询自己钱包的 NAS 余额？](https://github.com/cssmagic/Awesome-Nebulas/issues/10)
 * [在 DApp 里很多操作都需要付 gas，两手空空的新手如何获得启动资金？](https://github.com/cssmagic/Awesome-Nebulas/issues/9)
 * [“导入钱包助记词” 是什么意思？](https://github.com/cssmagic/Awesome-Nebulas/issues/14)
+* [为什么在苹果 App Store 无法安装 NAS nano（星云手机钱包 App）？](https://github.com/cssmagic/Awesome-Nebulas/issues/20)
 
 #### 智能合约 <a name="faq--smart-contract">&nbsp;</a>
 
@@ -98,8 +99,8 @@
 
 * [星云浏览器](https://explorer.nebulas.io/) —— 查询交易、地址、合约等详细信息
 * [星云 Web 钱包](https://github.com/nebulasio/web-wallet) —— 创建自己的钱包、向他人转账、部署合约等
-* [星云钱包 Chrome 扩展](https://github.com/nebulasio/WebExtensionWallet) —— 把钱包功能集成到 Chrome 浏览器，便于使用 DApp
-* [星云手机钱包 App](https://nano.nebulas.io/) —— 在手机上使用星云钱包，便于使用 DApp
+* [星云钱包 Chrome 扩展](https://github.com/nebulasio/WebExtensionWallet) —— 把钱包功能集成到 Chrome 浏览器，便于使用 DApp 和转账
+* [星云手机钱包 App（NAS nano）](https://nano.nebulas.io/) —— 在手机上使用星云钱包，便于使用 DApp 和转账
 
 ## 星云激励计划 <a name="incentive">&nbsp;</a>
 
@@ -128,13 +129,17 @@
 
 ## SDK <a name="sdk">&nbsp;</a>
 
-* **nebPay** —— 支付 SDK <a name="nebPay">&nbsp;</a>
-    
-    [GitHub](https://github.com/nebulasio/nebPay) | [文档](https://github.com/nebulasio/nebPay/blob/master/doc/NebPay%E4%BB%8B%E7%BB%8D.md) | [教程](https://blog.nebulas.io/2018/05/09/how-to-use-nebpay-in-your-dapp/)
+* **Nasa.js** —— 🚀 第三方 DApp 客户端开发框架（即将发布）
 
-* **neb.js** —— JS SDK <a name="neb.js">&nbsp;</a>
+	[GitHub](https://github.com/cssmagic/Nasa.js)
+
+* **neb.js** —— 官方 JS SDK <a name="neb.js">&nbsp;</a>
 	
 	[GitHub](https://github.com/nebulasio/neb.js) | [文档](https://nebulasio.github.io/neb.js/index.html)
+
+* **nebPay** —— 官方支付 SDK <a name="nebPay">&nbsp;</a>
+    
+    [GitHub](https://github.com/nebulasio/nebPay) | [文档](https://github.com/nebulasio/nebPay/blob/master/doc/NebPay%E4%BB%8B%E7%BB%8D.md) | [教程](https://blog.nebulas.io/2018/05/09/how-to-use-nebpay-in-your-dapp/)
 
 * **BigNumber** —— 合约和 SDK 内置库 <a name="BigNumber">&nbsp;</a>
 	
