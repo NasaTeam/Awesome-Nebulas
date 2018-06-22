@@ -62,6 +62,7 @@
 > 如果这一段的问答看不懂，别急，先看看其它文档或教程，再写写，再回来看看。
 
 * [DApp 不能在 Windows 上开发吗？](https://github.com/cssmagic/Awesome-Nebulas/issues/17)
+* [如何获取用户的钱包地址？在手机端浏览器网页中能获取到吗？](https://github.com/cssmagic/Awesome-Nebulas/issues/21)
 * [用 nebPay.queryPayInfo() 查询交易结果，总是得到 "payId *** does not exist" 是怎么回事？](https://github.com/cssmagic/Awesome-Nebulas/issues/1)
 * [调用 HTTP 接口有时会提示我跨域错误（'Access-Control-Allow-Origin' 响应头丢失）是怎么回事？](https://github.com/cssmagic/Awesome-Nebulas/issues/18)
 
@@ -71,7 +72,7 @@
 * [DApp 开发好了，如何提交给星云参加 “激励计划”？](https://github.com/cssmagic/Awesome-Nebulas/issues/13)
 * [获奖后如何领奖？](https://github.com/cssmagic/Awesome-Nebulas/issues/12)
 
-> 👉 没找到你关心的问题？点这里 [提交新问题](https://github.com/cssmagic/Awesome-Nebulas/issues/new)。
+> 👉 没找到你关心的问题？[点这里提问](https://github.com/cssmagic/Awesome-Nebulas/issues/new)。
 
 ***
 
@@ -174,7 +175,7 @@
 
 #### 微信群 <a name="wechat-group">&nbsp;</a>
 
-* ![群二维码-20180623](https://user-images.githubusercontent.com/1231359/41498918-27cfc2da-71ab-11e8-9705-0dcdf8236fba.png) —— 这是本项目作者自建群，非官方
+* ![群二维码-20180630](https://user-images.githubusercontent.com/1231359/41792356-2b26b8d2-768b-11e8-917b-5106f2ed9030.png) （非官方群）
 
 * 📣 **群规**：畅聊 DApp 技术；禁止闲聊，禁发与主题无关的动图、视频和外链，违者踢。
 
