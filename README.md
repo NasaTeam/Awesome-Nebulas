@@ -169,6 +169,7 @@
 
 #### DApp 推荐 <a name="dapp--commended">&nbsp;</a>
 
+* [星云三国](http://www.nebulas3.com/) —— 三国模拟战略游戏
 * [我是预言帝](http://dapp.applinzi.com/predictor/) —— 这是本项目作者的小作品，欢迎体验
 
 ## 社区 <a name="community">&nbsp;</a>
