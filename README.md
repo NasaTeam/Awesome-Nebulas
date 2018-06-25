@@ -80,7 +80,7 @@
 
 * [[英文] Nebulearn](http://nebulearn.com/) —— 官方开发教程总站，比较全，建议英文好的开发者仔细研读
 * [[英文/中文] 官方教程](https://github.com/nebulasio/wiki/blob/master/tutorials.md) —— 星云链官方教程汇总，建议入门后阅读
-* [[英文] 官方 Wiki](https://github.com/nebulasio/wiki/blob/master/tutorials.md) —— 星云链官方资料汇总，建议入门后阅读
+* [[英文] 官方 Wiki](https://github.com/nebulasio/wiki/wiki) —— 星云链官方资料汇总，建议入门后阅读
 
 #### 智能合约 <a name="official-tutorial--smart-contract">&nbsp;</a>
 
