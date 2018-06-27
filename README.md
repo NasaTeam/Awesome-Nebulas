@@ -130,7 +130,7 @@
 
 ## SDK <a name="sdk">&nbsp;</a>
 
-* **Nasa.js** —— 🚀 第三方 DApp 客户端开发框架
+* **Nasa.js** —— 🚀 首款星云链 DApp 客户端开发框架，轻量，易用
 
 	[GitHub](https://github.com/cssmagic/Nasa.js) | [文档](https://github.com/cssmagic/Nasa.js/issues/2) | [Demo](http://dapp.applinzi.com/nasa/)
 
