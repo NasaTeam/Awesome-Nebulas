@@ -20,8 +20,7 @@
 1. 在星云官网 [注册一个账号](https://incentive.nebulas.io/cn/signup.html?invite=76rVp)
 	* 在星云官网 [验证邮箱](https://incentive.nebulas.io/cn/setting_active.html)（注意：验证邮件可能会被误判为垃圾邮件，请去垃圾箱查找）
 	* 在星云官网 [填入你的钱包地址](https://incentive.nebulas.io/cn/setting.html)
-	* 耐心等待，最快半小时你的钱包就会收到官方赠送的少量 NAS（星云币）作为启动资金
-	* 如果急用，等不及启动资金到账，可求助 [微信群](#wechat-group)
+	* 获得启动资金：加入 [微信群](#wechat-group)，报上星云用户名和钱包地址，群主会提供启动资金
 1. 安装必备的工具
 	* 桌面端：安装 [星云钱包 Chrome 扩展](https://github.com/nebulasio/WebExtensionWallet)
 	* 手机端：安装 [星云手机钱包 App](https://nano.nebulas.io/)
