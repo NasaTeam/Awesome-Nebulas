@@ -20,7 +20,7 @@
 1. 在星云官网 [注册一个账号](https://incentive.nebulas.io/cn/signup.html?invite=76rVp)
 	* 在星云官网 [验证邮箱](https://incentive.nebulas.io/cn/setting_active.html)（注意：验证邮件可能会被误判为垃圾邮件，请去垃圾箱查找）
 	* 在星云官网 [填入你的钱包地址](https://incentive.nebulas.io/cn/setting.html)
-	* 获得启动资金：加入 [微信群](#wechat-group)，报上星云用户名和钱包地址，群主会提供启动资金
+	* 获得启动资金：加入 [微信群](#wechat-group)，群主会提供启动资金
 1. 安装必备的工具
 	* 桌面端：安装 [星云钱包 Chrome 扩展](https://github.com/nebulasio/WebExtensionWallet)
 	* 手机端：安装 [星云手机钱包 App](https://nano.nebulas.io/)
@@ -153,10 +153,10 @@
 
 #### 主网 <a name="nas--mainnet">&nbsp;</a>
 
-* [官方会向新用户赠送少量的启动资金](https://github.com/cssmagic/Awesome-Nebulas/issues/9)；如果急用，可求助 [微信群](#wechat-group)
-* [非官方] 付 gas 领 0.001 NAS，每天可领 20 次： http://nasgo.top/
-* [非官方] 付 gas 领 0.001 NAS： https://nas.biyouduo.com/
-* [非官方] 付 gas 领 0.0002 NAS： http://givemenas.com/home.html
+* 获得启动资金：加入 [微信群](#wechat-group)，群主会提供启动资金
+* 付 gas 领 0.001 NAS，每天可领 20 次： http://nasgo.top/
+* 付 gas 领 0.001 NAS： https://nas.biyouduo.com/
+* 付 gas 领 0.0002 NAS： http://givemenas.com/home.html
 
 ## DApp <a name="dapp">&nbsp;</a>
 
