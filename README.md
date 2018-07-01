@@ -19,6 +19,7 @@
 1. [创建自己的星云钱包地址](https://github.com/cssmagic/Awesome-Nebulas/issues/11)
 1. 在星云官网 [注册一个账号](https://incentive.nebulas.io/cn/signup.html?invite=76rVp)
 	* 在星云官网 [验证邮箱](https://incentive.nebulas.io/cn/setting_active.html)（注意：验证邮件可能会被误判为垃圾邮件，请去垃圾箱查找）
+	* 在星云官网 [验证手机号](https://incentive.nebulas.io/cn/phone_active.html)
 	* 在星云官网 [填入你的钱包地址](https://incentive.nebulas.io/cn/setting.html)
 	* 获得启动资金：加入 [微信群](#wechat-group)，群主会提供启动资金
 1. 安装必备的工具
