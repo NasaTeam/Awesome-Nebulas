@@ -105,11 +105,13 @@
 
 ## 星云激励计划 <a name="incentive">&nbsp;</a>
 
+> 第一季已经结束，第二季即将到来～
+
 #### 常用链接 <a name="incentive--link">&nbsp;</a>
 
 * [注册星云开发者账号](https://incentive.nebulas.io/cn/signup.html?invite=76rVp) —— 这是本项目作者的邀请链接，可获额外奖金
-* [提交 DApp](https://incentive.nebulas.io/cn/submit-dapp.html) —— 提交自己的作品参赛
-* [我的 DApp](https://incentive.nebulas.io/cn/mydapp.html) —— 已提交的作品，以及审核情况
+* ~~[提交 DApp](https://incentive.nebulas.io/cn/submit-dapp.html)~~ —— 提交自己的作品参赛
+* [我的 DApp](https://incentive.nebulas.io/cn/mydapp.html) —— 我已提交的作品及审核进度
 
 #### 官方文档与公告 <a name="incentive--official-doc">&nbsp;</a>
 
@@ -130,7 +132,7 @@
 
 ## SDK <a name="sdk">&nbsp;</a>
 
-* **Nasa.js** —— 🚀 首款星云链 DApp 客户端开发框架，轻量，易用
+* **Nasa.js** —— 🚀 广受好评的星云链 DApp 客户端开发框架，轻量，易用
 
 	[GitHub](https://github.com/cssmagic/Nasa.js) | [文档](https://github.com/cssmagic/Nasa.js/issues/2) | [Demo](http://dapp.applinzi.com/nasa/)
 
