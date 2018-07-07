@@ -193,6 +193,7 @@
 * Duke 的 DApp 开发教程： https://juejin.im/post/5b02301d51882542682e80a1
 * Nebulas 星云链 DApp 开发全教程： https://zhuanlan.zhihu.com/p/36709518
 * DApp 踩坑路： https://weyos.github.io/article/#/detail?id=1
+* 使用 Postman 访问 Nebulas API： https://blog.csdn.net/ycyzyp/article/details/80552440
 
 ## 其它 <a name="misc">&nbsp;</a>
 
