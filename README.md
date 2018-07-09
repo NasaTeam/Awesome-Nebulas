@@ -2,12 +2,12 @@
 
 星云链 DApp 开发文档、资料、工具、教程大全
 
-| 　　　　　　　　 | 　　　目　录　　　 | 　　　　　　　　 |
+| 　　　使用者　　　 | 　　　开发者　　　 | 　　　其　它　　　 |
 |:---:|:---:|:---:|
-| [新手入门指南](#guide) | [星云激励计划](#incentive)| [社区](#community)
-| [常见问题（FAQ）](#faq)| [SDK](#sdk)| [其它](#misc)
-| [官方教程](#official-tutorial)| [星云币（NAS）](#nas)
-| [必备工具](#tool)| [DApp](#dapp)
+| [新手入门指南](#guide) | [星云激励计划](#incentive)| [社区资源](#community)
+| [常见问题（FAQ）](#faq)| [开发工具](#dev-tool)| [其它](#misc)
+| [必备工具](#tool) | [官方教程](#official-tutorial)
+| [星云币（NAS）](#nas) | [DApp](#dapp)
 
 ***
 
@@ -47,6 +47,7 @@
 #### 钱包与 NAS（星云币） <a name="faq--wallet">&nbsp;</a>
 
 * [如何创建自己的星云钱包（钱包地址）？](https://github.com/cssmagic/Awesome-Nebulas/issues/11)
+* [在手机钱包（NAS nano）里生成的钱包地址如何导入到桌面版 Chrome 钱包扩展中？](https://github.com/cssmagic/Awesome-Nebulas/issues/24)
 * [如何查询自己钱包的 NAS 余额？](https://github.com/cssmagic/Awesome-Nebulas/issues/10)
 * [在 DApp 里很多操作都需要付 gas，两手空空的新手如何获得启动资金？](https://github.com/cssmagic/Awesome-Nebulas/issues/9)
 * [“导入钱包助记词” 是什么意思？](https://github.com/cssmagic/Awesome-Nebulas/issues/14)
@@ -130,7 +131,9 @@
 * [分析星云评奖结果](http://www.nasforce.io/index.php?c=read&id=110&page=1)
 * [创新？实用？从 46 个优秀 DApp 看开发重点](http://nasfans.io/forum.php?mod=viewthread&tid=275)
 
-## SDK <a name="sdk">&nbsp;</a>
+## 开发工具 <a name="dev-tool">&nbsp;</a>
+
+#### 库 / 框架 / SDK <a name="sdk">&nbsp;</a>
 
 * **Nasa.js** —— 🚀 广受好评的星云链 DApp 客户端开发框架，轻量，易用
 
@@ -146,7 +149,7 @@
 
 * **BigNumber** —— 合约和 SDK 内置库 <a name="BigNumber">&nbsp;</a>
 	
-	[使用方法](https://github.com/MikeMcl/bignumber.js#use) | [文档](http://mikemcl.github.io/bignumber.js/)
+	[GitHub](https://github.com/MikeMcl/bignumber.js) | [文档](http://mikemcl.github.io/bignumber.js/)
 
 ## 星云币（NAS） <a name="nas">&nbsp;</a>
 
@@ -174,7 +177,7 @@
 * [星云三国](http://www.nebulas3.com/) —— 三国模拟战略游戏
 * [我是预言帝](http://dapp.applinzi.com/predictor/) —— 这是本项目作者的小作品，欢迎体验
 
-## 社区 <a name="community">&nbsp;</a>
+## 社区资源 <a name="community">&nbsp;</a>
 
 #### 微信群 <a name="wechat-group">&nbsp;</a>
 
