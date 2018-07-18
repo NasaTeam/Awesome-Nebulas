@@ -185,7 +185,7 @@
 
 > ⚠️ 如果群二维码已过期，请加群主微信号 `cssmagic`，群主会拉你入群。
 
-![群二维码](https://user-images.githubusercontent.com/1231359/42052562-a82d4390-7b41-11e8-9790-d3df6f8ec4b5.png) 
+![群二维码](https://user-images.githubusercontent.com/1231359/42406226-9f9a1a2e-81d5-11e8-995f-df5448e06a37.png)
 
 #### 网友经验分享 <a name="community-tutorial">&nbsp;</a>
 
