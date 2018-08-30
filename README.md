@@ -137,7 +137,7 @@
 
 * **Nasa.js** —— 🚀 广受好评的星云链 DApp 客户端开发框架，轻量，易用
 
-	[GitHub](https://github.com/cssmagic/Nasa.js) | [文档](https://github.com/cssmagic/Nasa.js/issues/2) | [Demo](http://dapp.applinzi.com/nasa/)
+	[GitHub](https://github.com/NasaTeam/Nasa.js) | [文档](https://github.com/NasaTeam/Nasa.js/issues/15) | [Demo](https://dapp.applinzi.com/nasa/)
 
 * **neb.js** —— 官方 JS SDK <a name="neb.js">&nbsp;</a>
 	
