@@ -4,10 +4,10 @@
 
 | 　　　使用者　　　 | 　　　开发者　　　 | 　　　其　它　　　 |
 |:---:|:---:|:---:|
-| [新手入门指南](#guide) | [星云激励计划](#incentive)| [社区资源](#community)
+| [新手入门指南](#guide) | [DApp](#dapp) | [社区资源](#community)
 | [常见问题（FAQ）](#faq)| [开发工具](#dev-tool)| [其它](#misc)
 | [必备工具](#tool) | [官方教程](#official-tutorial)
-| [星云币（NAS）](#nas) | [DApp](#dapp)
+| [星云币（NAS）](#nas) | 
 
 ***
 
@@ -16,23 +16,18 @@
 
 #### 使用 DApp <a name="guide--user">&nbsp;</a>
 
-1. [创建自己的星云钱包地址](https://github.com/cssmagic/Awesome-Nebulas/issues/11)
-1. 在星云官网 [注册一个账号](https://incentive.nebulas.io/cn/signup.html?invite=76rVp)
-	* 在星云官网 [验证邮箱](https://incentive.nebulas.io/cn/setting_active.html)（注意：验证邮件可能会被误判为垃圾邮件，请去垃圾箱查找）
-	* 在星云官网 [验证手机号](https://incentive.nebulas.io/cn/phone_active.html)
-	* 在星云官网 [填入你的钱包地址](https://incentive.nebulas.io/cn/setting.html)
-	* 获得启动资金：加入 [微信群](#wechat-group)，群主会提供启动资金
+1. [创建自己的星云钱包地址](https://github.com/NasaTeam/Awesome-Nebulas/issues/11)
 1. 安装必备的工具
 	* 桌面端：安装 [星云钱包 Chrome 扩展](https://github.com/nebulasio/WebExtensionWallet)
 	* 手机端：安装 [星云手机钱包 App](https://nano.nebulas.io/)
+1. 获得启动资金：加入 [微信群](#wechat-group)，群主会提供启动资金
 1. 万事俱备，现在可以到 [DApp 商店](#dapp--store) 中浏览选用感兴趣的 DApp 了
 
 #### 开发 DApp <a name="guide--developer">&nbsp;</a>
 
-* 在星云官网 [注册一个账号](https://incentive.nebulas.io/cn/signup.html?invite=76rVp)
 * 熟悉 [SDK](#sdk)，阅读 [官方教程](#official-tutorial) 和 [网友经验分享](#community-tutorial)
 * 加入 [微信群](#wechat-group) 交流经验
-* 到 [创意墙](https://github.com/cssmagic/Awesome-Nebulas/labels/Idea) 找灵感，或找小伙伴组队；也可以发布你的创意，招募小伙伴组队
+* 到 [创意墙](https://github.com/NasaTeam/Awesome-Nebulas/labels/Idea) 找灵感，或找小伙伴组队；也可以发布你的创意，招募小伙伴组队
 
 ## 常见问题（FAQ） <a name="faq">&nbsp;</a>
 
@@ -40,40 +35,34 @@
 
 #### 星云链 <a name="faq--nebulas">&nbsp;</a>
 
-* [TPS 是什么意思？](https://github.com/cssmagic/Awesome-Nebulas/issues/3)
-* [什么是 gas/油费/矿工费/手续费？](https://github.com/cssmagic/Awesome-Nebulas/issues/4)
-* [节点之间的数据同步（达成共识）需要多久？](https://github.com/cssmagic/Awesome-Nebulas/issues/8)
+* [TPS 是什么意思？](https://github.com/NasaTeam/Awesome-Nebulas/issues/3)
+* [什么是 gas/油费/矿工费/手续费？](https://github.com/NasaTeam/Awesome-Nebulas/issues/4)
+* [节点之间的数据同步（达成共识）需要多久？](https://github.com/NasaTeam/Awesome-Nebulas/issues/8)
 
 #### 钱包与 NAS（星云币） <a name="faq--wallet">&nbsp;</a>
 
-* [如何创建自己的星云钱包（钱包地址）？](https://github.com/cssmagic/Awesome-Nebulas/issues/11)
-* [在手机钱包（NAS nano）里生成的钱包地址如何导入到桌面版 Chrome 钱包扩展中？](https://github.com/cssmagic/Awesome-Nebulas/issues/24)
-* [如何查询自己钱包的 NAS 余额？](https://github.com/cssmagic/Awesome-Nebulas/issues/10)
-* [在 DApp 里很多操作都需要付 gas，两手空空的新手如何获得启动资金？](https://github.com/cssmagic/Awesome-Nebulas/issues/9)
-* [“导入钱包助记词” 是什么意思？](https://github.com/cssmagic/Awesome-Nebulas/issues/14)
-* [为什么在苹果 App Store 无法安装 NAS nano（星云手机钱包 App）？](https://github.com/cssmagic/Awesome-Nebulas/issues/20)
+* [如何创建自己的星云钱包（钱包地址）？](https://github.com/NasaTeam/Awesome-Nebulas/issues/11)
+* [在手机钱包（NAS nano）里生成的钱包地址如何导入到桌面版 Chrome 钱包扩展中？](https://github.com/NasaTeam/Awesome-Nebulas/issues/24)
+* [如何查询自己钱包的 NAS 余额？](https://github.com/NasaTeam/Awesome-Nebulas/issues/10)
+* [在 DApp 里很多操作都需要付 gas，两手空空的新手如何获得启动资金？](https://github.com/NasaTeam/Awesome-Nebulas/issues/9)
+* [“导入钱包助记词” 是什么意思？](https://github.com/NasaTeam/Awesome-Nebulas/issues/14)
+* [为什么在苹果 App Store 无法安装 NAS nano（星云手机钱包 App）？](https://github.com/NasaTeam/Awesome-Nebulas/issues/20)
 
 #### 智能合约 <a name="faq--smart-contract">&nbsp;</a>
 
-* [智能合约部署上线之后还可以修改吗？我的 DApp 要升级怎么办？](https://github.com/cssmagic/Awesome-Nebulas/issues/5)
-* [如何查看别人的合约代码？](https://github.com/cssmagic/Awesome-Nebulas/issues/6)
+* [智能合约部署上线之后还可以修改吗？我的 DApp 要升级怎么办？](https://github.com/NasaTeam/Awesome-Nebulas/issues/5)
+* [如何查看别人的合约代码？](https://github.com/NasaTeam/Awesome-Nebulas/issues/6)
 
 ####  DApp 开发 <a name="faq--dapp-dev">&nbsp;</a>
 
 > 如果这一段的问答看不懂，别急，先看看其它文档或教程，再写写，再回来看看。
 
-* [DApp 不能在 Windows 上开发吗？](https://github.com/cssmagic/Awesome-Nebulas/issues/17)
-* [如何获取用户的钱包地址？在手机端浏览器网页中能获取到吗？](https://github.com/cssmagic/Awesome-Nebulas/issues/21)
-* [用 nebPay.queryPayInfo() 查询交易结果，总是得到 "payId *** does not exist" 是怎么回事？](https://github.com/cssmagic/Awesome-Nebulas/issues/1)
-* [调用 HTTP 接口有时会提示我跨域错误（'Access-Control-Allow-Origin' 响应头丢失）是怎么回事？](https://github.com/cssmagic/Awesome-Nebulas/issues/18)
+* [DApp 不能在 Windows 上开发吗？](https://github.com/NasaTeam/Awesome-Nebulas/issues/17)
+* [如何获取用户的钱包地址？在手机端浏览器网页中能获取到吗？](https://github.com/NasaTeam/Awesome-Nebulas/issues/21)
+* [用 nebPay.queryPayInfo() 查询交易结果，总是得到 "payId *** does not exist" 是怎么回事？](https://github.com/NasaTeam/Awesome-Nebulas/issues/1)
+* [调用 HTTP 接口有时会提示我跨域错误（'Access-Control-Allow-Origin' 响应头丢失）是怎么回事？](https://github.com/NasaTeam/Awesome-Nebulas/issues/18)
 
-#### 星云激励计划 <a name="faq--incentive">&nbsp;</a>
-
-* [“合约哈希” 是什么意思？在哪里能找到？](https://github.com/cssmagic/Awesome-Nebulas/issues/7)
-* [DApp 开发好了，如何提交给星云参加 “激励计划”？](https://github.com/cssmagic/Awesome-Nebulas/issues/13)
-* [获奖后如何领奖？](https://github.com/cssmagic/Awesome-Nebulas/issues/12)
-
-> 👉 没找到你关心的问题？[点这里提问](https://github.com/cssmagic/Awesome-Nebulas/issues/new)。
+> 👉 没找到你关心的问题？[点这里提问](https://github.com/NasaTeam/Awesome-Nebulas/issues/new)。
 
 ***
 
@@ -104,33 +93,6 @@
 * [星云钱包 Chrome 扩展](https://github.com/nebulasio/WebExtensionWallet) —— 把钱包功能集成到 Chrome 浏览器，便于使用 DApp 和转账
 * [星云手机钱包 App（NAS nano）](https://nano.nebulas.io/) —— 在手机上使用星云钱包，便于使用 DApp 和转账
 
-## 星云激励计划 <a name="incentive">&nbsp;</a>
-
-> 第一季已经结束，第二季即将到来～
-
-#### 常用链接 <a name="incentive--link">&nbsp;</a>
-
-* [注册星云开发者账号](https://incentive.nebulas.io/cn/signup.html?invite=76rVp) —— 这是本项目作者的邀请链接，可获额外奖金
-* ~~[提交 DApp](https://incentive.nebulas.io/cn/submit-dapp.html)~~ —— 提交自己的作品参赛
-* [我的 DApp](https://incentive.nebulas.io/cn/mydapp.html) —— 我已提交的作品及审核进度
-
-#### 官方文档与公告 <a name="incentive--official-doc">&nbsp;</a>
-
-* [审核规则指南](https://mp.weixin.qq.com/s?__biz=MzU2MTI5OTI3MA==&mid=2247484761&idx=3&sn=357580897604e90cef6bb68e1e6b8fc3) 
-* [安全公告](https://mp.weixin.qq.com/s/bWmh5BRRx1qjUp-wJrXSTw)
-* [常见问题](https://blog.nebulas.io/2018/05/03/nebulas-incentive-program-qa/)
-* [加分指南](https://mp.weixin.qq.com/s/mspyU2DRENyonDA67VF40A) —— 参见文章尾部
-* [DApp 升级指南](https://mp.weixin.qq.com/s/MdVZ-iVc5ZNChp1RzDpzsw) —— 如何重新申请审核
-* [星云 DApp 设计规范](https://nebulas.io/docs/DAppDesignGuidelinesZh.pdf) —— PDF 下载
-* [每周入围应用](https://incentive.nebulas.io/cn/dapps-board.html)
-
-#### 社区资源 <a name="incentive--community">&nbsp;</a>
-
-* [领奖事宜](http://nasfans.io/forum.php?mod=viewthread&tid=230&extra=page%3D1) —— 可能是官方公告
-* [星云 DApp 开发热点问题答疑](http://nasfans.io/forum.php?mod=viewthread&tid=236) —— 可能是官方公告
-* [分析星云评奖结果](http://www.nasforce.io/index.php?c=read&id=110&page=1)
-* [创新？实用？从 46 个优秀 DApp 看开发重点](http://nasfans.io/forum.php?mod=viewthread&tid=275)
-
 ## 开发工具 <a name="dev-tool">&nbsp;</a>
 
 #### 库 / 框架 / SDK <a name="sdk">&nbsp;</a>
@@ -150,6 +112,12 @@
 * **BigNumber** —— 合约和 SDK 内置库 <a name="BigNumber">&nbsp;</a>
 	
 	[GitHub](https://github.com/MikeMcl/bignumber.js) | [文档](http://mikemcl.github.io/bignumber.js/)
+
+#### 其它开发工具
+
+* **NasLint** —— 合约代码检查工具 <a name="NasLint">&nbsp;</a>
+
+	[GitHub](https://github.com/NasaTeam/naslint)
 
 ## 星云币（NAS） <a name="nas">&nbsp;</a>
 
