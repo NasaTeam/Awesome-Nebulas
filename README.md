@@ -151,7 +151,7 @@
 
 有任何 DApp 开发方面的疑问，欢迎加群讨论！
 
-> ⚠️ 如果群二维码已过期，请加群主微信号 `cssmagic`，群主会拉你入群。
+> ⚠️ 如果群二维码已过期，请加群主微信号 `Leica_bro`，群主会拉你入群。
 
 ![群二维码](https://user-images.githubusercontent.com/1231359/42406226-9f9a1a2e-81d5-11e8-995f-df5448e06a37.png)
 
