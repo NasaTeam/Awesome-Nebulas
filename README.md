@@ -6,7 +6,7 @@
 |:---:|:---:|:---:|
 | [新手入门指南](#guide) | [DApp](#dapp) | [社区资源](#community)
 | [常见问题（FAQ）](#faq)| [开发工具](#dev-tool)| [其它](#misc)
-| [必备工具](#tool) | [官方教程](#official-tutorial)
+| [必备工具](#tool) | [教程](#tutorial)
 | [星云币（NAS）](#nas) | 
 
 ***
@@ -66,11 +66,19 @@
 
 ***
 
-## 官方教程 <a name="official-tutorial">&nbsp;</a>
+## 教程 <a name="tutorial">&nbsp;</a>
+
+#### 官方教程 <a name="official-tutorial">&nbsp;</a>
 
 * [[英文] Nebulearn](http://nebulearn.com/) —— 官方开发教程总站，比较全，建议英文好的开发者仔细研读
 * [[英文/中文] 官方教程](https://github.com/nebulasio/wiki/blob/master/tutorials.md) —— 星云链官方教程汇总，建议入门后阅读
 * [[英文] 官方 Wiki](https://github.com/nebulasio/wiki/wiki) —— 星云链官方资料汇总，建议入门后阅读
+* [[中文] FAQ](https://github.com/nebulasio/wiki/blob/master/FAQ_nebulas_development_ch.md) | [[英文]](https://github.com/nebulasio/wiki/blob/master/FAQ_nebulas_development_en.md)
+
+#### DApp 开发 <a name="tutorial--dapp-dev">&nbsp;</a>
+
+* 🔥 必读：[[QCon 演讲] 为什么前端工程师更应该掌握区块链 DApp 开发（上）](https://mp.weixin.qq.com/s/feo6YuBv4x-UcsLOooLGlA)
+* 🔥 必读：[[QCon 演讲] 为什么前端工程师更应该掌握区块链 DApp 开发（下）](https://mp.weixin.qq.com/s/avTPc6JfOobKk6caHOpKAg)
 
 #### 智能合约 <a name="official-tutorial--smart-contract">&nbsp;</a>
 
@@ -79,19 +87,12 @@
 * [[中文] 智能合约存储区](https://github.com/nebulasio/wiki/blob/master/tutorials/%5B%E4%B8%AD%E6%96%87%5D%20Nebulas%20101%20-%2004%20%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%AD%98%E5%82%A8%E5%8C%BA.md)
 * [[中文] 部署智能合约](https://blog.nebulas.io/2018/04/28/deploy-a-smart-contract/)
 
-#### DApp 开发 <a name="official-tutorial--dapp-dev">&nbsp;</a>
-
-* [[中文] FAQ](https://github.com/nebulasio/wiki/blob/master/FAQ_nebulas_development_ch.md) | [[英文]](https://github.com/nebulasio/wiki/blob/master/FAQ_nebulas_development_en.md)
-* [手把手教你星云DApp开发（一）](https://blog.nebulas.io/2018/05/04/how-to-build-a-dapp-on-nebulas-part-1/)
-* [手把手教你星云DApp开发（二）](https://blog.nebulas.io/2018/05/05/how-to-build-a-dapp-on-nebulas-part-2/)
-* 官方 Demo（super-dictionary）： [GitHub](https://github.com/15010159959/super-dictionary) | [解读](https://blog.nebulas.io/2018/04/28/nebulas-incentive-program%e2%80%8a-%e2%80%8a-demo/)
-
 ## 必备工具 <a name="tool">&nbsp;</a>
 
-* [星云浏览器](https://explorer.nebulas.io/) —— 查询交易、地址、合约等详细信息
-* [星云 Web 钱包](https://github.com/nebulasio/web-wallet) —— 创建自己的钱包、向他人转账、部署合约等
-* [星云钱包 Chrome 扩展](https://github.com/nebulasio/WebExtensionWallet) —— 把钱包功能集成到 Chrome 浏览器，便于使用 DApp 和转账
-* [星云手机钱包 App（NAS nano）](https://nano.nebulas.io/) —— 在手机上使用星云钱包，便于使用 DApp 和转账
+* [星云浏览器](https://explorer.nebulas.io/) —— 可查询区块、交易、地址、合约等详细信息
+* [星云 Web 钱包](https://github.com/nebulasio/web-wallet) —— 可创建钱包地址、向他人转账、部署合约等
+* [星云钱包插件](https://github.com/nebulasio/WebExtensionWallet)（Chrome 浏览器扩展）—— 把钱包功能集成到 Chrome 浏览器，便于转账和使用 DApp
+* [NAS nano](https://nano.nebulas.io/)（星云手机钱包 App）—— 在手机上使用星云钱包，便于转账和使用 DApp
 
 ## 开发工具 <a name="dev-tool">&nbsp;</a>
 
@@ -139,11 +140,6 @@
 * [官方 DApp 商场](https://incentive.nebulas.io/cn/dappstore.html)
 * [Nebulas Cool](http://nebulas.cool/) —— 第三方 DApp 商店
 * [DApp Review](https://dapp.review/explore/nas) —— 第三方 DApp 商店
-
-#### DApp 推荐 <a name="dapp--commended">&nbsp;</a>
-
-* [星云三国](http://www.nebulas3.com/) —— 三国模拟战略游戏
-* [我是预言帝](http://dapp.applinzi.com/predictor/) —— 这是本项目作者的小作品，欢迎体验
 
 ## 社区资源 <a name="community">&nbsp;</a>
 
